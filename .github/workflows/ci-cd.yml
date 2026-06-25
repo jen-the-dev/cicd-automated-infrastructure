@@ -15,6 +15,7 @@ jobs:
           python-version: "3.12"
       - run: pip install -r app/requirements.txt
       - run: python -m py_compile app/main.py
+      - run: python -m pytest tests -q
 
       - run: docker build -t portfolio-cicd-app .
 
