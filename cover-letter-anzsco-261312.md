@@ -14,8 +14,8 @@ I design and deliver maintainable software with clear architecture, strong imple
 - deployment and CI/CD workflows,
 - maintainable documentation and project structure.
 
-Portfolio landing page:  
-[projects-workspaces](https://github.com/jen-the-dev/projects-workspaces)
+Portfolio landing page and full repository index:  
+[projects-workspaces/README.md](https://github.com/jen-the-dev/projects-workspaces/blob/main/README.md)
 
 Core showcase repositories:
 
