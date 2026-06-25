@@ -15,18 +15,14 @@ I design and deliver maintainable software with clear architecture, strong imple
 - maintainable documentation and project structure.
 
 Portfolio landing page:  
-**https://github.com/jen-the-dev/projects-workspaces**
+[projects-workspaces](https://github.com/jen-the-dev/projects-workspaces)
 
 Core showcase repositories:
 
-- **Cloud-Native Task Management API**  
-  https://github.com/jen-the-dev/cloud-native-task-management-api
-- **Multi-Platform E-Commerce Web Application**  
-  https://github.com/jen-the-dev/multi-platform-ecommerce-web-app
-- **Real-Time Data Streaming Dashboard**  
-  https://github.com/jen-the-dev/realtime-data-streaming-dashboard
-- **CI/CD Pipeline & Automated Infrastructure**  
-  https://github.com/jen-the-dev/cicd-automated-infrastructure
+- [Cloud-Native Task Management API](https://github.com/jen-the-dev/cloud-native-task-management-api)
+- [Multi-Platform E-Commerce Web Application](https://github.com/jen-the-dev/multi-platform-ecommerce-web-app)
+- [Real-Time Data Streaming Dashboard](https://github.com/jen-the-dev/realtime-data-streaming-dashboard)
+- [CI/CD Pipeline & Automated Infrastructure](https://github.com/jen-the-dev/cicd-automated-infrastructure)
 
 Additional portfolio projects provide further evidence in Rails/API development, accessibility-focused component engineering, scripting/automation, and systems-level technical depth.
 

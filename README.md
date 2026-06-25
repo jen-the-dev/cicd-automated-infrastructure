@@ -1,6 +1,14 @@
 # CI/CD Pipeline & Automated Infrastructure
 Delivery-and-operations portfolio project aligned to ANZSCO 261312 (Developer Programmer).
 
+## Portfolio Context
+- Full ANZSCO 261312 portfolio landing page: [projects-workspaces](https://github.com/jen-the-dev/projects-workspaces)
+- Application cover letter template in this repository: [cover-letter-anzsco-261312.md](cover-letter-anzsco-261312.md)
+- Related core showcase repositories:
+  - [cloud-native-task-management-api](https://github.com/jen-the-dev/cloud-native-task-management-api)
+  - [multi-platform-ecommerce-web-app](https://github.com/jen-the-dev/multi-platform-ecommerce-web-app)
+  - [realtime-data-streaming-dashboard](https://github.com/jen-the-dev/realtime-data-streaming-dashboard)
+
 ## Problem
 Teams often deliver application code without a repeatable deployment pipeline, resulting in inconsistent releases and fragile infrastructure changes.
 
