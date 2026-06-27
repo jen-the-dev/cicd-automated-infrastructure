@@ -1,4 +1,5 @@
 # Cover Letter — Developer Programmer (ANZSCO 261312)
+hello@jenthedev.it.com · jenthedev.it.com · linkedin.com/in/jenthedev · github.com/jen-the-dev · +1 5045101878
 
 25 June 2026
 
