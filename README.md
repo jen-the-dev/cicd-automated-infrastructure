@@ -1,13 +1,9 @@
 # CI/CD Pipeline & Automated Infrastructure
-Delivery-and-operations portfolio project aligned to ANZSCO 261312 (Developer Programmer).
+Reference implementation for repeatable CI/CD pipelines, container packaging, Kubernetes deployment, and Terraform-managed infrastructure.
 
-## Portfolio Context
-- Full ANZSCO 261312 portfolio landing page: [projects-workspaces](https://github.com/jen-the-dev/projects-workspaces)
-- Application cover letter template in this repository: [cover-letter-anzsco-261312.md](cover-letter-anzsco-261312.md)
-- Related core showcase repositories:
-  - [cloud-native-task-management-api](https://github.com/jen-the-dev/cloud-native-task-management-api)
-  - [multi-platform-ecommerce-web-app](https://github.com/jen-the-dev/multi-platform-ecommerce-web-app)
-  - [realtime-data-streaming-dashboard](https://github.com/jen-the-dev/realtime-data-streaming-dashboard)
+## Related
+- Shipped work index: [projects-workspaces](https://github.com/jen-the-dev/projects-workspaces)
+- Resume and cover letter: [nz-immigration-application-tracker](https://github.com/jen-the-dev/nz-immigration-application-tracker)
 
 ## Problem
 Teams often deliver application code without a repeatable deployment pipeline, resulting in inconsistent releases and fragile infrastructure changes.
@@ -51,12 +47,6 @@ flowchart LR
 - Integration-style endpoint test: `tests/test_app_integration.py`
 - Run suite:
   - `python -m pytest tests -q`
-
-## ANZSCO 261312 Competency Evidence
-- **Software development and maintenance**: service implementation in `app/main.py`.
-- **Testing and debugging**: automated Python test coverage in `tests/`.
-- **Deployment and platform integration**: container and Kubernetes assets in `Dockerfile` and `k8s/deployment.yaml`.
-- **Infrastructure automation**: Terraform resources in `terraform/main.tf` plus CI workflow in `.github/workflows/ci-cd.yml`.
 
 ## Commit Convention
 Use Conventional Commits:
